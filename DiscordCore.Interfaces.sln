@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordCore.Interfaces", "DiscordCore.Interfaces\DiscordCore.Interfaces.csproj", "{B693898C-0C50-4ECE-9238-F68D6A2FFF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B693898C-0C50-4ECE-9238-F68D6A2FFF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B693898C-0C50-4ECE-9238-F68D6A2FFF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B693898C-0C50-4ECE-9238-F68D6A2FFF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B693898C-0C50-4ECE-9238-F68D6A2FFF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3099F216-6BCE-4552-B72D-E92DA8AB6C6A}
+	EndGlobalSection
+EndGlobal
